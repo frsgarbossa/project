@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+<user type="admin">
+<uname>admin</uname>
+<password>admin</password>
+<name>Nome admin</name>
+<sname>Cognome admin </sname>
+<b_date><year>1995</year><month>5</month><day>22</day></b_date>
+</user><user type="user">
+<uname>user</uname>
+<password>user</password>
+<name>Simon</name>
+<sname>Belmont</sname>
+<b_date><year>1462</year><month>3</month><day>14</day></b_date>
+</user>
+</users>

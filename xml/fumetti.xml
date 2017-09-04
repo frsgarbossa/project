@@ -1,0 +1,105 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<fumetti>
+<fumetto type="manga">
+<cover>:/img/imm1.jpg</cover>
+<isbn>9781461209232</isbn>
+<title>One Piece</title>
+<author>Eiichiro Oda</author>
+<publish_date>
+	<year>1997</year>
+	<month>7</month>
+	<day>19</day>
+</publish_date>
+<description>La storia segue le avventure di Monkey D. Rufy, un ragazzo il cui corpo ha assunto le proprietà della gomma dopo aver innavvertitamente ingerito il frutto del diavolo Gom Gom. Raccogliendo attorno a sé una ciurma, Rufy esplora la Rotta Maggiore in cerca del leggendario tesoro One Piece</description>
+<sub>avventura</sub>
+<numberC>4</numberC>
+</fumetto>
+
+<fumetto type="comicbook">
+<cover>:/img/imm2.jpg</cover>
+<isbn>8887331944</isbn>
+<title>Batman</title>
+<author>Dc comics</author>
+<publish_date>
+	<year>1939</year>
+	<month>6</month>
+	<day>6</day>
+</publish_date>
+<description>Batman è l'identità segreta di Bruce Wayne, ricchissimo uomo d'affari, che dopo aver assistito da bambino all'assassinio dei propri genitori da parte di un ladro, decide di intraprendere una personale guerra contro il crimine indossando un costume e una maschera per incutere timore negli avversari.</description>
+<sub>supereroe Batman</sub>
+<numberC>7</numberC>
+</fumetto>
+
+<fumetto type="manga">
+<cover>:/img/imm3.jpg</cover>
+<isbn>9781461204232</isbn>
+<title>One-Punch Man</title>
+<author>One, disegnatore: Yusuke Murata</author>
+<publish_date>
+	<year>2012</year>
+	<month>12</month>
+	<day>4</day>
+</publish_date>
+<description>Dopo un allenamento durato tre anni, un ragazzo di nome Saitama ha raggiunto il suo obiettivo: diventare la persona più forte del mondo. Passa i giorni scacciando i mostri e i criminali dalle città ma, a causa della poderosa forza acquisita, gli basta sferrare un solo pugno per riuscire a sconfiggere anche i nemici più potenti.</description>
+<sub>seinen</sub>
+<numberC>3</numberC>
+</fumetto>
+
+<fumetto type="manga">
+<cover>:/img/imm4.jpg</cover>
+<isbn>9780980839609</isbn>
+<title>Berserk</title>
+<author>Kentaro Miura</author>
+<publish_date>
+	<year>1988</year>
+	<month>3</month>
+	<day>11</day>
+</publish_date>
+<description>La storia si svolge nella fittizia terra delle Midlands, in una sorta di Medioevo alternativo. Il protagonista è Gatsu, detto il "Guerriero Nero".</description>
+<sub>seinen</sub><numberC>2</numberC>
+</fumetto>
+
+<fumetto type="comicbook">
+<cover>:/img/imm5.png</cover>
+<isbn>9780470750100</isbn>
+<title>Spider Man</title>
+<author>Stan Lee e dal disegnatore Steve Ditko</author>
+<publish_date>
+	<year>1962</year>
+	<month>5</month>
+	<day>11</day>
+</publish_date>
+<description>Il giovane Peter Parker vive nei sobborghi di New York con gli anziani zii, studia al liceo, è innamorato della bella Mary Jane Watson, ha l'hobby della fotografia ed è molto timido. Un giorno, durante una gita di classe Peter viene morso da un ragno geneticamente modificato.</description>
+<sub>supereroe Spider-Man</sub>
+<numberC>1</numberC>
+</fumetto>
+
+<fumetto type="comicbook">
+<cover>:/img/imm6.png</cover>
+<isbn>9780470750111</isbn>
+<title>Lupo Alberto</title>
+<author>Silver</author>
+<publish_date>
+	<year>1973</year>
+	<month>9</month>
+	<day>21</day>
+</publish_date>
+<description>Alberto è un lupo innamorato della gallina Marta che lo corrisponde ma il loro amore è contrastato dal cane Mosè, messo a guardia del pollaio della fattoria Mckenzie dove vive anche la findanzata.</description>
+<sub>protagonista: Lupo Alberto</sub>
+<numberC>3</numberC>
+</fumetto>
+
+<fumetto type="manga">
+<cover>:/img/imm7.jpg</cover>
+<isbn>9780980839688</isbn>
+<title>Getter Robot</title>
+<author>Go Nagai</author>
+<publish_date>
+	<year>1972</year>
+	<month>4</month>
+	<day>4</day>
+</publish_date>
+<description>Mentre sta studiando le peculiarità dei misteriosi Raggi Getter per usarli come fonte di energia, il Professor Saotome si rende conto che la Terra è in gravissimo pericolo.</description>
+<sub>fantascienza, mecha</sub><numberC>7</numberC>
+</fumetto>
+</fumetti>

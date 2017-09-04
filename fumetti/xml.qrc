@@ -1,0 +1,15 @@
+<RCC>
+    <qresource prefix="/">
+        <file>img/imm1.jpg</file>
+        <file>img/imm2.jpg</file>
+        <file>img/imm3.jpg</file>
+        <file>img/imm4.jpg</file>
+        <file>img/No-Cover.png</file>
+        <file>../xml/fumetti.xml</file>
+        <file>../xml/richieste.xml</file>
+        <file>../xml/users.xml</file>
+        <file>img/imm5.png</file>
+        <file>img/imm6.png</file>
+        <file>img/imm7.jpg</file>
+    </qresource>
+</RCC>
