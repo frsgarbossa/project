@@ -40,8 +40,6 @@ public:
     };
 
     container();
-
-    //COPIA PROFONDA
     container(const container&);//COSTRUTORE DI COPIA PROFONDO
     ~container();//DISTRUTTORE PROFONDO
     container& operator=(const container&);//ASSEGNAZIONE PROFONDO
